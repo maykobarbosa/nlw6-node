@@ -36,6 +36,8 @@ yarn add bcryptjs // criptografia
 
 yarn add @types/bcryptjs -D //tipagens
 
+yarn add class-transformer
+
 //@types/express
 const app = express();
 
